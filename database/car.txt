@@ -1,0 +1,89 @@
+Toyota Corolla
+ABC123
+Excellent
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+50
+
+Honda Civic
+DEF456
+Fair
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+60
+
+Ford Mustang
+GHI789
+Fair
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+70
+
+BMW 3 Series
+JKL012
+Good
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+80
+
+Audi A4
+MNO345
+Excellent
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+90
+
+Tesla Model S
+PQR678
+Excellent
+No
+Rudradeep Dutta
+01-03-2024 12:25
+03-03-2024 12:25
+100
+
+Mercedes-Benz E-Class
+STU901
+Fair
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+110
+
+Volkswagen Golf
+VWX234
+Good
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+120
+
+Chevrolet Cruze
+YZABCD
+Good
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+140
+
+Audi R8
+XYZ007
+Excellent
+Yes
+***
+dd-mm-yyyy hh:mm
+dd-mm-yyyy hh:mm
+150
