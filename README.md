@@ -7,5 +7,5 @@ This repo contains my submission for the C++ assignment of course CS253 Software
 3. Run the following two lines in the terminal-
 ```
   g++ -o main main.cpp functions.cpp user.cpp car.cpp
-  ./main.exe
+  ./main
 ```
