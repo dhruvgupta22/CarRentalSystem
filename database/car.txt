@@ -1,7 +1,7 @@
 Toyota Corolla
 ABC123
 Excellent
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -10,7 +10,7 @@ dd-mm-yyyy hh:mm
 Honda Civic
 DEF456
 Fair
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -19,7 +19,7 @@ dd-mm-yyyy hh:mm
 Ford Mustang
 GHI789
 Fair
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -28,7 +28,7 @@ dd-mm-yyyy hh:mm
 BMW 3 Series
 JKL012
 Good
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -37,7 +37,7 @@ dd-mm-yyyy hh:mm
 Audi A4
 MNO345
 Excellent
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -55,7 +55,7 @@ Rudradeep Dutta
 Mercedes-Benz E-Class
 STU901
 Fair
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -64,7 +64,7 @@ dd-mm-yyyy hh:mm
 Volkswagen Golf
 VWX234
 Good
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -73,7 +73,7 @@ dd-mm-yyyy hh:mm
 Chevrolet Cruze
 YZABCD
 Good
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
@@ -82,7 +82,7 @@ dd-mm-yyyy hh:mm
 Audi R8
 XYZ007
 Excellent
-No
+Yes
 ***
 dd-mm-yyyy hh:mm
 dd-mm-yyyy hh:mm
